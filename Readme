@@ -1,1 +1,9 @@
+## Informe final
 
+El informe final del proyecto se encuentra disponible en la carpeta `informe/` del repositorio.
+
+**Informe de Regresión Lineal – Predicción del PIB**
+
+[Ver informe final en PDF](./informe/Informe_RegresionLineal_RivasYerson.pdf)
+
+El informe presenta el proceso de recolección y preparación de los datos, el análisis exploratorio, la construcción del modelo de Regresión Lineal Múltiple, las métricas de evaluación, la validación de los supuestos, las conclusiones y las limitaciones del proyecto.
